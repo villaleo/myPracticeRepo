@@ -4,12 +4,12 @@ public class ApplicationMain {
     public static void main(String[] args) {
         var shoppingList = List.of(
             "Apples",
-            "Bananas",
+            "Oranges",
             "Cat Food",
             "Cereal",
             "Bread",
             "Eggs",
-            "Milk"
+            "Oat Milk"
         );
 
         System.out.println("My shopping list:");
