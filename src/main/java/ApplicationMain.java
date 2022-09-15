@@ -5,13 +5,14 @@ public class ApplicationMain {
         var shoppingList = List.of(
             "Apples",
             "Bananas",
-            "Dog Food",
+            "Cat Food",
             "Cereal",
             "Bread",
             "Eggs",
             "Milk"
         );
 
+        System.out.println("My shopping list:");
         shoppingList.forEach(System.out::println);
     }
 }
