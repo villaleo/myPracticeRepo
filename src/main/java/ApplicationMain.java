@@ -5,7 +5,11 @@ public class ApplicationMain {
         var shoppingList = List.of(
             "Apples",
             "Bananas",
-            "Corn"
+            "Dog Food",
+            "Cereal",
+            "Bread",
+            "Eggs",
+            "Milk"
         );
 
         shoppingList.forEach(System.out::println);
